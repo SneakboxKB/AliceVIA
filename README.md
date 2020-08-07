@@ -3,7 +3,7 @@ This keyboard layout file to be used with caniusevia.com VIA Configurator. At in
 
 Instructions: 
 --------------
-1.) Download this file to your computer. 
+1.) Download "Sneakbox Alice Clone PCB VIA Key Layout.json" to your computer. 
 
 2.) Connect the Sneakbox Alice Clone PCB to your computer
 
