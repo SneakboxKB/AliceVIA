@@ -1,5 +1,5 @@
 # AliceVIA
-This keyboard layout file to be used with caniusevia.com VIA Configurator. 
+This keyboard layout file to be used with caniusevia.com VIA Configurator. At initial release of this PCB, this PCB has not been officially integrated into the VIA repository so you will need to load the layout contained in this directory into your VIA configurator installed on your computer. 
 
 Instructions: 
 --------------
